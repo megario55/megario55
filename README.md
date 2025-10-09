@@ -231,7 +231,7 @@ const megario = {
 
 ### 📈 Weekly Development Breakdown
 
-
+```text
 JavaScript   ████████████████████████████████████████   90%
 React        ████████████████████████████████████████   85%
 Node.js      ███████████████████████████████████        75%
@@ -239,28 +239,27 @@ Python       ██████████████████████�
 MongoDB      ███████████████████████████████            70%
 CSS/HTML     ████████████████████████████████████████   95%
 Bootstrap    ████████████████████████████████████████   95%
-
-
+```
 
 </div>
-<!-- 
+
 ---
 
 ## 🐍 Contribution Snake
-<!--
+
 <div align="center">
 
-![Snake animation](https://github.com/karnansp36/karnansp36/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/megario55/megario55/blob/output/github-contribution-grid-snake.svg)
 
- Note: To enable the snake animation, you need to:
+<!-- Note: To enable the snake animation, you need to:
 1. Create a repository named 'karnansp36' (same as your username)
 2. Add a GitHub Action workflow file: .github/workflows/snake.yml
 3. The workflow will generate the snake animation SVG file
-
+-->
 
 </div>
 
---- -->
+---
 
 ## 🙏 Thank You for Visiting!
 
