@@ -40,7 +40,7 @@ const megario = {
   
   frameworks: {
     frontend: ["React", "Next.js"],
-    backend: ["Express.js", "Django"],
+    backend: ["Express.js"],
     styling: ["Tailwind CSS", "Bootstrap", "Material-UI"]
   },
   
@@ -89,7 +89,7 @@ const megario = {
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&theme=dark&perline=5" />
 
 ### 🔧 *Tools & Technologies*
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,yarn&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark&perline=7" />
 
 </div>
 
