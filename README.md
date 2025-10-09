@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- CLEAN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Karnan%20SP&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Megarajan%20R&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;💻+Full+Stack+Developer+from+India;🌟+Passionate+about+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB" alt="Typing Animation" />
@@ -157,33 +157,32 @@ const megario = {
 <div align="center">
 
 ### 🌟 Recent Work
-
 <table>
 <tr>
 <td width="50%">
 
-*💬 Real-time Chat Application*
-- *Tech*: MongoDB, Express.js, React, Node.js (MERN)
-- *Features*: Real-time messaging, user authentication, group chats
-- *Highlights*: Socket.io integration, responsive design
+*💌 Emailcon Campaign App*  
+- *Tech*: MERN Stack (MongoDB, Express.js, React, Node.js)  
+- *Features*: Campaign creation, email analytics, template builder, and export tools  
+- *Highlights*: Real-time email tracking, modular UI templates, and analytics dashboard  
 
-*🏠 Property Listing Platform*
-- *Tech*: MERN Stack with JWT authentication
-- *Features*: Property search, filters, user dashboard, image uploads
-- *Highlights*: Advanced search functionality, mobile-responsive
+*💼 Internship App*  
+- *Tech*: React.js, Node.js, Express, MongoDB  
+- *Features*: Internship search, application tracking, student dashboard  
+- *Highlights*: Personalized recommendations, intuitive UI, efficient internship management  
 
 </td>
 <td width="50%">
 
-*📚 Learning Management System (LMS)*
-- *Tech*: Django, Python, MySQL, Bootstrap
-- *Features*: Course management, student enrollment, progress tracking
-- *Highlights*: Admin panel, course materials upload, quiz system
+*📄 Resume Builder App*  
+- *Tech*: HTML, CSS, Bootstrap, JavaScript  
+- *Features*: 15+ customizable resume templates, live preview, and color personalization  
+- *Highlights*: Clean layout with Navbar, Header, Sections, and Footer; responsive design  
 
-*📝 Blog Management System*
-- *Tech*: Django, Python, SQLite, CSS
-- *Features*: CRUD operations, user authentication, comment system
-- *Highlights*: Rich text editor, category management
+*💎 ATTS Aurumm Project*  
+- *Tech*: React.js, Node.js, Express, MongoDB  
+- *Features*: Inventory management, secure transactions, and product catalog  
+- *Highlights*: Seamless operations for jewellery stores with an intuitive user experience  
 
 </td>
 </tr>
@@ -232,7 +231,7 @@ const megario = {
 
 ### 📈 Weekly Development Breakdown
 
-text
+
 JavaScript   ████████████████████████████████████████   90%
 React        ████████████████████████████████████████   85%
 Node.js      ███████████████████████████████████        75%
