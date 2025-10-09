@@ -57,8 +57,8 @@ const megario = {
 
 ### 🎯 Current Focus
 - 🔨 *Building*: MERN Stack Applications
-- 📱 *Developing*: Real-time Chat Applications
-- 🛠️ *Learning*: Advanced React and Django
+- 📱 *Developing*: Emailcon Marketing Application
+- 🛠️ *Learning*: Advanced React and AI
 - 🌐 *Exploring*: Full-stack development patterns
 - 💼 *Working*: Property listing platforms
 
