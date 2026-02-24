@@ -83,7 +83,7 @@ const megario = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&theme=dark&perline=9" />
 
 ### ⚙️ *Backend Development*
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark&perline=4" />
 
 ### 🗄️ *Databases & Cloud*
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&theme=dark&perline=5" />
