@@ -122,9 +122,8 @@ const megario = {
 <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=megario55&theme=tokyonight" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megario55&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="480"/>
 </td>
-
 <td align="center">
 <img src="https://streak-stats.demolab.com?user=megario55&theme=tokyonight&hide_border=true" width="420"/>
 </td>
@@ -133,25 +132,11 @@ const megario = {
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=megario55&theme=tokyonight" width="400"/>
-</td>
-
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=megario55&theme=tokyonight" width="400"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=megario55&theme=tokyonight" width="400"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=megario55&theme=tokyonight&utcOffset=5.5" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megario55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="420"/>
 
 </div>
+
+> **Note:** these cards run on the free public `github-readme-stats.vercel.app` and `streak-stats.demolab.com` instances. They're generally reliable but can occasionally rate-limit under heavy shared traffic. If a card ever shows a broken-image icon, it will self-heal on refresh (the browser re-requests it) — no action needed. For guaranteed uptime, you can self-host via the project's GitHub Action (see the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)).
 
 ---
 
@@ -184,6 +169,8 @@ const megario = {
 <img src="https://github-profile-trophy.vercel.app/?username=megario55&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
 
 </div>
+
+> **Note on the Trophy card:** the public `github-profile-trophy.vercel.app` instance is currently returning a **402 "quota exceeded"** error for *all* users (not specific to your profile), so it may show as broken right now. This is an upstream outage, not something fixable via URL parameters. The permanent fix is to self-host it as a GitHub Action so it renders from your own repo instead of the shared free instance — setup below.
 
 ---
 
@@ -284,15 +271,11 @@ Bootstrap    ██████████████████████�
 
 <div align="center">
 
-![Snake animation](https://github.com/megario55/megario55/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Note: To enable the snake animation, you need to:
-1. Create a repository named 'karnansp36' (same as your username)
-2. Add a GitHub Action workflow file: .github/workflows/snake.yml
-3. The workflow will generate the snake animation SVG file
--->
+![Snake animation](https://github.com/megario55/megario55/raw/output/github-contribution-grid-snake.svg)
 
 </div>
+
+> **This one isn't broken by an outage — it was never generated.** Your repo has no `output` branch, because the workflow that builds it was never added. It's a one-time, 2-minute setup — see below.
 
 ---
 
