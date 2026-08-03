@@ -122,9 +122,9 @@ const megario = {
 
 <table>
 <tr>
-<td>
+<!-- <td>
 <img src="https://github-readme-stats.vercel.app/api?username=megario55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" height="200"/>
-</td>
+</td> -->
 <td>
 <img src="https://streak-stats.demolab.com?user=megario55&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=00F7FF&dates=FFFFFF&sideLabels=FFFFFF" height="200"/>
 </td>
@@ -168,7 +168,7 @@ const megario = {
 </table>
 
 <!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=megario55&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=megario55&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" /> -->
 
 </div>
 
