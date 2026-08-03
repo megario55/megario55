@@ -2,15 +2,36 @@
 
 <div align="center">
 
-<!-- CLEAN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Megarajan%20R&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+<!-- MODERN GRADIENT BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=Hi%20There,%20I'm%20Megarajan%20R%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Building%20Clean,%20Scalable%20Web%20Apps&descSize=16&descAlignY=62&descAlign=50" />
+
+<br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Building+Modern+Web+Applications;💻+Full+Stack+Developer+from+India;🌟+Passionate+about+Clean+Code;⚡+React+%7C+Node.js+%7C+MongoDB" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%9A%A1" alt="Typing Animation" />
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="mailto:megarajan55@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/megarajan-r-0379a1135">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/megario55">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://twitter.com/megario55">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <!-- PROFILE STATS -->
-<img src="https://komarev.com/ghpvc/?username=megario55&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=black" alt="Profile Views" />
-<img src="https://img.shields.io/badge/EXPERIENCE-Full%20Stack-00d4aa?style=for-the-badge&labelColor=black" alt="Experience" />
+<img src="https://komarev.com/ghpvc/?username=megario55&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views" height="28"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Status" height="28"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4aa?style=flat-square" alt="Focus" height="28"/>
 
 </div>
 
@@ -25,7 +46,7 @@
 
 ### 🔷 Developer Profile
 
-javascript
+```javascript
 const megario = {
   name: "Megarajan R",
   location: "India 🇮🇳",
@@ -50,7 +71,7 @@ const megario = {
   
   motto: "Clean code, better user experience!"
 };
-
+```
 
 </td>
 <td width="50%">
