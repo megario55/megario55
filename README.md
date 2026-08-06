@@ -278,13 +278,13 @@ const megario = {
 ### 📈 Weekly Development Breakdown
 
 <table>
-<tr><td width="140"><b>JavaScript</b></td><td><img src="https://progress-bar.dev/90/?scale=100&width=350&color=00F7FF&suffix=%25" /></td></tr>
-<tr><td><b>CSS/HTML</b></td><td><img src="https://progress-bar.dev/95/?scale=100&width=350&color=00F7FF&suffix=%25" /></td></tr>
-<tr><td><b>Bootstrap</b></td><td><img src="https://progress-bar.dev/95/?scale=100&width=350&color=00F7FF&suffix=%25" /></td></tr>
-<tr><td><b>React</b></td><td><img src="https://progress-bar.dev/85/?scale=100&width=350&color=2C5364&suffix=%25" /></td></tr>
-<tr><td><b>MongoDB</b></td><td><img src="https://progress-bar.dev/70/?scale=100&width=350&color=2C5364&suffix=%25" /></td></tr>
-<tr><td><b>Node.js</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=350&color=2C5364&suffix=%25" /></td></tr>
-<tr><td><b>Python</b></td><td><img src="https://progress-bar.dev/60/?scale=100&width=350&color=555555&suffix=%25" /></td></tr>
+<tr><td width="140"><b>JavaScript</b></td><td><img src="https://progress-bar.dev/90/?scale=100&width=350&color=00F7FF" /></td></tr>
+<tr><td><b>CSS/HTML</b></td><td><img src="https://progress-bar.dev/95/?scale=100&width=350&color=00F7FF" /></td></tr>
+<tr><td><b>Bootstrap</b></td><td><img src="https://progress-bar.dev/95/?scale=100&width=350&color=00F7FF" /></td></tr>
+<tr><td><b>React</b></td><td><img src="https://progress-bar.dev/85/?scale=100&width=350&color=2C5364" /></td></tr>
+<tr><td><b>MongoDB</b></td><td><img src="https://progress-bar.dev/70/?scale=100&width=350&color=2C5364" /></td></tr>
+<tr><td><b>Node.js</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=350&color=2C5364" /></td></tr>
+<tr><td><b>Python</b></td><td><img src="https://progress-bar.dev/60/?scale=100&width=350&color=555555" /></td></tr>
 </table>
 
 </div>
