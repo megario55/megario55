@@ -238,34 +238,56 @@ const megario = {
 
 ---
 
-## 🎯 Fun Facts
+## 🎯 Fun Facts & Currently Vibing With
 
 <div align="center">
 
-### 💡 Quick Facts About Me
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌱-Always%20Learning-0F2027?style=for-the-badge&labelColor=2C5364&color=00F7FF" /><br/><br/>
+<sub>MERN stack + Django, one bug at a time</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎨-Real--Time%20UI-0F2027?style=for-the-badge&labelColor=2C5364&color=00F7FF" /><br/><br/>
+<sub>Love building live, interactive experiences</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀-Full%20Stack-0F2027?style=for-the-badge&labelColor=2C5364&color=00F7FF" /><br/><br/>
+<sub>End-to-end app development is my happy place</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌐-Modern%20JS-0F2027?style=for-the-badge&labelColor=2C5364&color=00F7FF" /><br/><br/>
+<sub>Always chasing the latest frameworks</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/📚-LMS%20%26%20Chat%20Apps-0F2027?style=for-the-badge&labelColor=2C5364&color=00F7FF" /><br/><br/>
+<sub>Currently focused on these two domains</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☕-Coffee%20%2B%20Debugging-0F2027?style=for-the-badge&labelColor=2C5364&color=00F7FF" /><br/><br/>
+<sub>My debugging fuel of choice</sub>
+</td>
+</tr>
+</table>
 
-- 🌱 Always learning MERN stack and Django development
-- 🎨 I enjoy creating real-time applications and interactive UIs
-- 🚀 Passionate about building full-stack web applications
-- 🌐 Love working with modern JavaScript frameworks
-- 📚 Currently focused on learning management systems and chat applications
-- ☕ Coffee enthusiast and debugging expert!
+<br/>
 
 ### 📈 Weekly Development Breakdown
 
-```text
-JavaScript   ████████████████████████████████████████   90%
-React        ████████████████████████████████████████   85%
-Node.js      ███████████████████████████████████        75%
-Python       ████████████████████████████               60%
-MongoDB      ███████████████████████████████            70%
-CSS/HTML     ████████████████████████████████████████   95%
-Bootstrap    ████████████████████████████████████████   95%
-```
+<table>
+<tr><td width="140"><b>JavaScript</b></td><td><img src="https://progress-bar.dev/90/?scale=100&width=350&color=00F7FF&suffix=%25" /></td></tr>
+<tr><td><b>CSS/HTML</b></td><td><img src="https://progress-bar.dev/95/?scale=100&width=350&color=00F7FF&suffix=%25" /></td></tr>
+<tr><td><b>Bootstrap</b></td><td><img src="https://progress-bar.dev/95/?scale=100&width=350&color=00F7FF&suffix=%25" /></td></tr>
+<tr><td><b>React</b></td><td><img src="https://progress-bar.dev/85/?scale=100&width=350&color=2C5364&suffix=%25" /></td></tr>
+<tr><td><b>MongoDB</b></td><td><img src="https://progress-bar.dev/70/?scale=100&width=350&color=2C5364&suffix=%25" /></td></tr>
+<tr><td><b>Node.js</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=350&color=2C5364&suffix=%25" /></td></tr>
+<tr><td><b>Python</b></td><td><img src="https://progress-bar.dev/60/?scale=100&width=350&color=555555&suffix=%25" /></td></tr>
+</table>
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
