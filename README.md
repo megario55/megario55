@@ -275,7 +275,7 @@ const megario = {
 
 <br/>
 
-### 📈 Weekly Development Breakdown
+<!-- ### 📈 Weekly Development Breakdown
 
 <table>
 <tr><td width="140"><b>JavaScript</b></td><td><img src="https://progress-bar.dev/90/?scale=100&width=350&color=00F7FF" /></td></tr>
@@ -285,8 +285,7 @@ const megario = {
 <tr><td><b>MongoDB</b></td><td><img src="https://progress-bar.dev/70/?scale=100&width=350&color=2C5364" /></td></tr>
 <tr><td><b>Node.js</b></td><td><img src="https://progress-bar.dev/75/?scale=100&width=350&color=2C5364" /></td></tr>
 <tr><td><b>Python</b></td><td><img src="https://progress-bar.dev/60/?scale=100&width=350&color=555555" /></td></tr>
-</table>
-
+</table> -->
 </div>
 
 ## 🐍 Contribution Snake
