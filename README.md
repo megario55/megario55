@@ -132,9 +132,9 @@ const megario = {
 </table>
 
 <!-- LANGUAGE STATS -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megario55&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact&langs_count=8" height="200"/>
-</p>
+</p> -->
 <!-- CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=megario55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true" alt="Activity Graph" />
 
